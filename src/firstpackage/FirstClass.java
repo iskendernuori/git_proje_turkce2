@@ -8,7 +8,7 @@ public class FirstClass {
 
 		
 
-		System.out.println("conflict yapmak istiyoruz");
+		System.out.println("we are agens conflict");
 
 		System.out.println("fourth commit from local repository");
 		
